@@ -1,5 +1,5 @@
 ## Agência XYZ 😄
-Landing page feito para uma agência fictícia, com o famoso menu "hamburguer".
+Landing page feito para uma agência fictícia.
 
 ## Tecnologias usadas  😈
 
@@ -7,4 +7,4 @@ Landing page feito para uma agência fictícia, com o famoso menu "hamburguer".
 - CSS
 
 ## Aprendizados e desafios 👶 ❤️‍🔥
- Neste projeto meu maior desafio/aprendizado foi confeccionar o menu "hamburguer" sem utilizar javascript ou outro tipo de liguagem de programção
+ Neste projeto meu maior desafio/aprendizado foi confeccionar o menu "hamburguer"  para o mobile sem utilizar javascript ou outro tipo de liguagem de programção.
